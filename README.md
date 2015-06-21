@@ -5,4 +5,4 @@
 * Put run_analysis.R into /Users/username/Desktop/Coursera/UCI HAR Dataset
 * In RStudio set the working directory to /Users/username/Desktop/Coursera/UCI HAR Dataset
 * Run source ("run_analysis.R")
-* Use command data <- read.table("tidy_data_set_with_the_averages.txt") to read the data.
+* Use command data <- read.table("tidy_data_set.txt") to read the data.
